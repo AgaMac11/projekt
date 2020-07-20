@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>asd</first_name>
+	<last_name>asd</last_name>
+	<phone_number>123</phone_number>
+	<notes>ad</notes>
+</contact>
+<contact>
+	<first_name>asd1</first_name>
+	<last_name>asd</last_name>
+	<phone_number>123</phone_number>
+	<notes>asd</notes>
+</contact>
+<contact>
+	<first_name>asd</first_name>
+	<last_name>asd</last_name>
+	<phone_number>12</phone_number>
+	<notes>asd</notes>
+</contact>
+<contact>
+	<first_name>asd</first_name>
+	<last_name>dsa</last_name>
+	<phone_number>345</phone_number>
+	<notes>nic</notes>
+</contact>
+</contacts>

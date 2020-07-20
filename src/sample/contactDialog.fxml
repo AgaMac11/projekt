@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.BorderPane?>
+
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<BorderPane fx:controller="sample.DialogController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+    <center>
+        <VBox>
+            <HBox>
+                <Label text="first name:"></Label>
+                <TextField fx:id="firstNameField"></TextField>
+            </HBox>
+            <HBox>
+                <Label text="last name:"></Label>
+                <TextField fx:id="lastNameField"></TextField>
+            </HBox>
+            <HBox>
+                <Label text="phone number:"></Label>
+                <TextField fx:id="phoneNumberField"></TextField>
+            </HBox>
+            <HBox>
+                <Label text="notes:"></Label>
+                <TextField fx:id="notesField"></TextField>
+            </HBox>
+        </VBox>
+    </center>
+</BorderPane>
+
